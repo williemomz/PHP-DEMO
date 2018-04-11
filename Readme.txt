@@ -1,6 +1,3 @@
-# WILLIAM-ZALEGO
-WEB PRACTICAL INTERVIEW
-
 Database and table structure I have used for this application is in the sql directory.
 To modify Database settings to a remote or local database, please edit the db.php file.
 New users can sign up and log in to view their profile or update their profile.
