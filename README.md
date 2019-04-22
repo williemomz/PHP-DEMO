@@ -1,5 +1,4 @@
-# WILLIAM-ZALEGO
-WEB PRACTICAL INTERVIEW
+# SAMPLE PHP & MYSQL PROJECT
 
 Database and table structure I have used for this application is in the sql directory.
 To modify Database settings to a remote or local database, please edit the db.php file.
